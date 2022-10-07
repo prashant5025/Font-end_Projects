@@ -5,7 +5,7 @@ import Img2 from '../assets/YelpCamp.png'
 
 const Hero = () => {
     return (
-        <div className='w-full mx-auto h-full text-gray-400 bg-[#0b0c0b] px-8'>
+        <div className='w-full mx-auto h-full text-gray-400 bg-[#0b0c0b] px-8 py-12'>
             <div className='text-5xl text-white pt-4 h-auto w-auto p-2 leading-[60px] px-4'>
                 <h1 className='w-full md:w-[556px] font-serif mt-8'>Helping companies build better, scable software.</h1>
             </div>
