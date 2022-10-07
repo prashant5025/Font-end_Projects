@@ -13,7 +13,7 @@ const Navbar = () => {
 
 
     return (
-        <div className='flex justify-between items-center h-24 w-full px-4 text-gray-400 bg-[#0b0c0b]'>
+        <div className='flex justify-between items-center h-24 w-full px-12 text-gray-400 bg-[#0b0c0b]'>
             <h1 className='text-2xl text-center text-white'>Navbar</h1>
             <ul className='md:flex justify-items-center gap-8 hidden'>
                 <li className='px-2 text-xl hover:text-yellow-500 cursor-pointer ease-in-out duration-200'>Home</li>
