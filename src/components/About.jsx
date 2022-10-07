@@ -2,8 +2,8 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div className='w-full mx-auto h-full  text-gray-400 bg-slate-600 pt-8 '>
-        <div className='grid grid-cols-1 md:grid-cols-2 gap-12 px-8'>
+    <div name='about' className='w-full mx-auto h-full  text-gray-400 bg-slate-600 pt-8 '>
+        <div className='grid grid-cols-1 md:grid-cols-2 gap-12 px-10'>
             <div className=''>
                 <h2 className='text-4xl font-serif text-white py-4'>A co-founder at one of the world&apos;s largest communities.</h2>
                 <p className='font-normal text-sm py-4'>The combined experience I have working at the top Fortune 500 companies has allowed me to develop a skillset that helps me in not just development, but in every aspect of any business.</p>
