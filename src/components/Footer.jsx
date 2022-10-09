@@ -9,7 +9,7 @@ const Footer = () => {
       <div className='flex justify-between items-center py-4 px-8'>
 
         <h1 className=' text-2xl text-serif text-gray-100 cursor-pointer'>Jonathan Specter</h1>
-        <p>&copy; 2022 Prashant Singh</p>
+        <p className='text-sm'>&copy; 2022 Prashant Singh</p>
 
         <div className='flex gap-8'>
             <BsFacebook className='text-gray-400 hover:text-blue-500 ease-in-out duration-200 cursor-pointer' size={20}/>
